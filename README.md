@@ -6,10 +6,6 @@
 
 ---
 
-## 🎬 Demo
-
-- **📹 Video Demo**: [YOUTUBE LINK YAHAN PASTE KARO](https://youtube.com/watch?v=xxxxx)
-- **💻 Live Code**: [GitHub Repository](https://github.com/[YOUR-USERNAME]/k8s-store-orchestrator)
 
 ---
 
